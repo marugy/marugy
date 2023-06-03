@@ -29,7 +29,8 @@ Samsung SW * A+ *
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](yunabae482@gmail.com) -->
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/f947bc20438141b6ba4d1a4bbc0bd628?pvs=4)](https://www.notion.so/f947bc20438141b6ba4d1a4bbc0bd628?pvs=4)
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@marugy)](https://velog.io/@marugy)
-
+  </br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarugy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
   
 </div>
