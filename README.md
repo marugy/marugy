@@ -2,6 +2,14 @@
   
 # 안녕하세요!</br>꾸준히 성장하는 개발자 신규람입니다! 😄 
 
+  # 🐱 About Me
+
+<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](yunabae482@gmail.com) -->
+  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/f947bc20438141b6ba4d1a4bbc0bd628?pvs=4)](https://www.notion.so/f947bc20438141b6ba4d1a4bbc0bd628?pvs=4)
+  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@marugy)](https://velog.io/@marugy)
+  </br>
+
+
 ## ☑️**Backend Developer**
 
 **성장**하기 위해 꾸준히 노력하는 개발자
@@ -24,10 +32,11 @@ Frontend</br>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> </br>
 DevOps</br>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></br>
+AWS - EC2, Docker, Jenkins </br>
 Tools</br>
-
+IntelliJ, DBeaver, mobaxterm, VS Code
+Git, Gitlab
+Jira, Slack, Mattermost, Notion
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marugy&show_icons=true&theme=radical)
@@ -38,13 +47,6 @@ Tools</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sj_coding)](https://solved.ac/sj_coding/)  
 Samsung SW * A+ *
 
-  
-  # 🐱 About Me
-
-<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](yunabae482@gmail.com) -->
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/f947bc20438141b6ba4d1a4bbc0bd628?pvs=4)](https://www.notion.so/f947bc20438141b6ba4d1a4bbc0bd628?pvs=4)
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@marugy)](https://velog.io/@marugy)
-  </br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarugy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
   
