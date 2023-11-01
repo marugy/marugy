@@ -5,7 +5,7 @@
   # 🐱 About Me
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](yunabae482@gmail.com) -->
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/f947bc20438141b6ba4d1a4bbc0bd628?pvs=4)](https://www.notion.so/f947bc20438141b6ba4d1a4bbc0bd628?pvs=4)
+  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/f947bc20438141b6ba4d1a4bbc0bd628?pvs=4)](https://productive-robin-8c8.notion.site/f947bc20438141b6ba4d1a4bbc0bd628?pvs=4)
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@marugy)](https://velog.io/@marugy)
   </br>
 
