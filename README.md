@@ -34,6 +34,7 @@
 ### 🏗️Infra
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
 ### 🧰Tool
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
