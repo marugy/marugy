@@ -112,7 +112,7 @@
 > ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
 </details>
 <details>
-  <summary>RUALONE : 국내 여행 동행구하기 서비스</summary>
+  <summary>🚶RUALONE : 국내 여행 동행구하기 서비스</summary>
 
 #### 프로젝트 개요
 > https://github.com/Lets-Travel-Well<br>
