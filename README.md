@@ -33,6 +33,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ### 🏗️Infra
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![googlecloud](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)&nbsp;
+![oracle](https://img.shields.io/badge/-OCI-05122A?style=flat&logo=oracle)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
@@ -51,82 +53,100 @@
   <summary>💳 SSOL : 그린 스마트 월렛</summary>
 
 #### 프로젝트 개요
-> https://github.com/byh9811/Kkini<br>
-> 프로젝트 서비스
+- 지갑안의 신분증, 카드, 영수증, 명함을 스마트 지갑에서 간편하게 관리하는 어플
+- 일정 : 2023.10 ~ 진행중 
+- 인원 : backend 5, frontend 1 
+- repository : ""
 
 #### 맡은 역할
-> backend - recipe 엔티티 및 post 엔티티 조회 관련 개발<br>
-> infra - AWS 환경 배포 및 자동화
+- TeamReader - 일정 및 산출물 관리 팀 리딩 <br>
+- Backend - 회원 관련 기능 개발 <br>
+- Infra - MSA 환경 구축, Gitlab, AWS, OCI, GCP 서버에서 Docker와 jenkins를 사용하여 자동배포 환경 구축 <br>
 
-#### 주요 기술
-> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
-> ![Gitlab-CI](https://img.shields.io/badge/-Gitlab_CI-05122A?style=flat&logo=gitlab)&nbsp;
-> ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
+#### 사용 기술
+- Backend - Spring, JPA, Mongo, MariaDB <br>
+- Infra - Docker, Jenkins, Spring Cloud Netflix Eureka
+
 </details>
 
 <details>
   <summary>💸태산 : 泰山</summary>
 
 #### 프로젝트 개요
-> https://github.com/Lets-Travel-Well<br>
-> 여행지 검색, 동행 구하기 서비스
+- 사용자의 소비패턴을 분석하여 소비 습관을 개선하고 저축을 유도하는 절약 저축 플랫폼
+- 일정 : 2023.8 ~ 10 
+- 인원 : backend 3, frontend 3 
+- repo : https://github.com/marugy/Taesan
+- 수상 : SSAFY 특화 프로젝트 1등
 
 #### 맡은 역할
-> batch - 배치 서버 개발<br>
-> backend - 프로필 이미지 관련 기능 개발
+- TeamReader - 일정 및 산출물 관리 팀 리딩 <br>
+- Backend - 회원 관련 기능, 절약 챌린지, 습관 저금통 기능 개발 <br>
+- Infra - Docker와 jenkins를 사용하여 자동배포 환경 구축 <br>
 
-#### 주요 기술
-> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
-> ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
+#### 사용 기술
+- Backend - Spring, JPA, QueryDSL <br>
+- Infra - Docker, Jenkins
 </details>
 
 <details>
   <summary>🎥REON : 연기 연습 플랫폼</summary>
 
 #### 프로젝트 개요
-> https://github.com/zzckckck3/ridingthewind/tree/4team-main<br>
-> 여행지 검색, 계획 수립 서비스
+- 연기에 관심있는 사용자들이 연기 연습, 배틀을 하고 소통할 수 있는 플랫폼
+- 일정 : 2023.7 ~ 2023.8
+- 인원 : backend 2, frontend 4 
+- repo : https://github.com/marugy/RE-ON
 
 #### 맡은 역할
-> 게시판 관련 기능 개발<br>
-> 댓글 관련 기능 개발
+- TeamReader - 일정 및 산출물 관리 팀 리딩 <br>
+- Backend - 연기 배틀, 게시판 관련 기능 개발 <br>
+- Infra - OpenVidu Platform을 사용하여 WerbRtc 환경 구축, Docker 사용 수동 배포
 
-#### 주요 기술
-> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
-> ![MyBatis](https://img.shields.io/badge/-MyBatis-05122A?style=flat&logo=MyBatis)&nbsp;
-> ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
+#### 사용 기술
+- Backend - Spring, JPA, QueryDSL
+- Infra - Docker
+</details>
+
+<details>
+  <summary>🚶RUALONE : 국내 여행 동행구하기 서비스</summary>
+
+#### 프로젝트 개요
+- 국내 여행지 정보 제공 및 국내 여행 동행을 구할 수 있는 여행 플랫폼
+- 일정 : 2023.6 ~ 2023.7
+- 인원 : backend 2, frontend 
+- repo : https://github.com/Lets-Travel-Well
+- 수상 : 제 9회 인천 공공데이터 경진대회 입선
+  
+#### 맡은 역할
+- Frontend - 프론트 웹 페이지 구현
+- Backend - 회원, 여행지, 동행, 관련 기능 구현
+- Infra - config 서버 구축, Aws, Docker, GitActions을 통한 자동 배포 환경 구축
+
+#### 사용 기술
+> Frontend - Vue, Vuex <br>
+> Backend - Spring, JPA, QueryDSL, Spring Security, Oauth2.0, Spring cloud
+> Infra - Docker, GitActions
 </details>
 
 <details>
   <summary>🛳️V-Check : 선박 및 해양 플랜트 부품 검사 시스템</summary>
 
 #### 프로젝트 개요
-> https://github.com/Lets-Travel-Well<br>
-> 여행지 검색, 동행 구하기 서비스
+- 선박을 블록단위로 관리하고 AI를 사용하여 실시간 불량 검사가 가능한 선박 검사 플랫폼
+  - 일정 : 2022.9 ~ 2022.12
+  - 인원 : frontend 1, backend 1, AI 1
+  - 수상 : 제 14회 세종대학교 창의설계 경진대회 대상, 한국 저작권 위원회 저작권 등록
 
 #### 맡은 역할
-> batch - 배치 서버 개발<br>
-> backend - 프로필 이미지 관련 기능 개발
+- TeamReader - 일정 및 산출물 관리 팀 리딩 <br>
+- Frontend - 프론트 담당 개발 <br>
 
-#### 주요 기술
-> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
-> ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
+#### 사용 기술
+- Frontend - React
+  
 </details>
-<details>
-  <summary>🚶RUALONE : 국내 여행 동행구하기 서비스</summary>
 
-#### 프로젝트 개요
-> https://github.com/Lets-Travel-Well<br>
-> 여행지 검색, 동행 구하기 서비스
-
-#### 맡은 역할
-> batch - 배치 서버 개발<br>
-> backend - 프로필 이미지 관련 기능 개발
-
-#### 주요 기술
-> ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
-> ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
-</details>
 
 <hr>
 
