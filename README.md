@@ -56,7 +56,7 @@
 - 지갑안의 신분증, 카드, 영수증, 명함을 스마트 지갑에서 간편하게 관리하는 어플
 - 일정 : 2023.10 ~ 진행중 
 - 인원 : backend 5, frontend 1 
-- repository : ""
+- repository : https://github.com/marugy/ssok
 
 #### 맡은 역할
 - TeamReader - 일정 및 산출물 관리 팀 리딩 <br>
