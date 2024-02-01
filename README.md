@@ -140,7 +140,7 @@
 
 #### 맡은 역할
 - TeamReader - 일정 및 산출물 관리 팀 리딩 <br>
-- Frontend - 프론트 담당 개발 <br>
+- Frontend - 프론트 담당 개발, 소셜 로그인 구현 <br>
 
 #### 사용 기술
 - Frontend - React
