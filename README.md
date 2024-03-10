@@ -54,7 +54,7 @@
 
 #### 프로젝트 개요
 - 지갑안의 신분증, 카드, 영수증, 명함을 스마트 지갑으로! paperless로 환경까지 보호하며 지갑 안의 물건을 간편하게 관리하는 그린 스마트 지갑
-- 일정 : 2023.10 ~ 진행중 
+- 일정 : 2023.10 ~ 2023.12
 - 인원 : backend 5, frontend 1 
 - repository : https://github.com/marugy/ssok
 
